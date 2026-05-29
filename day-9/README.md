@@ -48,7 +48,7 @@ The project prioritizes data integrity by forcing the LLM to return structured J
 ---
 
 ### **How to Deploy**
-1.  **Secure Credentials:** Store your `GOOGLE_API_KEY` in the Google Colab "Secrets" sidebar.
+1.  **Secure Credentials:** Store your `GOOGLE_API_KEY` in the Google Colab "Secrets" sidebar and fill their it's free to use. 
 2.  **Environment Setup:** Run the notebook to install the `google-generativeai` library.
 3.  **Execution:** Run the UI cell, upload a document, and trigger the **Analyze** function.
 4.  **Reporting:** Access the `analysis_results.txt` file generated in the local directory.
