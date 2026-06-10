@@ -6,4 +6,4 @@ i will cover -
 - data analysis
 - Stat and maths in Machine learning
 
-  i will try to keep everything simple but highly impactful . join me if you want .
+  i will try to keep everything simple but highly impactful . join me if you want and support guys.
