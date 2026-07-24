@@ -5,5 +5,4 @@ i will cover -
 - EDA
 - data analysis
 - Stat and maths in Machine learning
-
-  i will try to keep everything simple but highly impactful . join me if you want and support guys.
+  i will try to keep everything simple but highly impactful . join me if you want and support guys on linkedin and x 
