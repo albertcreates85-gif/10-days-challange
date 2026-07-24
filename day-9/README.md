@@ -1,4 +1,4 @@
-# **Semantic Auditor: Intelligent Text Weighting & Analysis**
+# **Intelligent Text Weighting & Analysis**
 
 The **Semantic Auditor** is a high-level text analysis tool designed to bridge the gap between raw data parsing and cognitive synthesis. Unlike traditional NLP methods that rely on simple keyword frequency, this project leverages the **Google Gemini 3 Flash** engine to perform semantic evaluation, assigning mathematical "importance weights" to individual lines of text to identify high-density information.
 
@@ -56,5 +56,3 @@ The project prioritizes data integrity by forcing the LLM to return structured J
 ---
 
 **Developed with precision for high-level data analysis.**
-
-**Signed,** **Mayank**
